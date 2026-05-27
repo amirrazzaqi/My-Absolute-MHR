@@ -1,4 +1,4 @@
-name: 10_Build Android APKs - Manual
+name: 03_Build APKs
 
 on:
   workflow_dispatch:
