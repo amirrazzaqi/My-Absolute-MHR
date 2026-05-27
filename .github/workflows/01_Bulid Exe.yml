@@ -1,4 +1,4 @@
-name: Build Exe File
+name: 01_Build Exe File
 
 on:
   workflow_dispatch:      # دستی اجرا شود
