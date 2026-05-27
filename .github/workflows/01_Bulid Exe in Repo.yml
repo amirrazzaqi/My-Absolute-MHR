@@ -1,4 +1,4 @@
-name: 01_Build Exe File
+name: 01_Build Exe upload to Rep.
 
 on:
   workflow_dispatch:      # دستی اجرا شود
